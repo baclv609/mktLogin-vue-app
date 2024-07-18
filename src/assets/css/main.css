@@ -1,0 +1,18 @@
+@tailwind base;
+/*@tailwind components;*/
+@tailwind utilities;
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.ant-layout-sider {
+    background: #FFFFFF !important;
+}
+
+.ant-layout{
+    background-color: #FFFFFF !important;
+}
+.ant-layout-sider-children {
+    position: relative !important;
+}
